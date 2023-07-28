@@ -1,0 +1,8 @@
+C:\data\HandlingDates(asssited)\HandlingDates(asssited)\bin\Debug\HandlingDates(asssited).exe.config
+C:\data\HandlingDates(asssited)\HandlingDates(asssited)\bin\Debug\HandlingDates(asssited).exe
+C:\data\HandlingDates(asssited)\HandlingDates(asssited)\bin\Debug\HandlingDates(asssited).pdb
+C:\data\HandlingDates(asssited)\HandlingDates(asssited)\obj\Debug\HandlingDates(asssited).csproj.AssemblyReference.cache
+C:\data\HandlingDates(asssited)\HandlingDates(asssited)\obj\Debug\HandlingDates(asssited).csproj.SuggestedBindingRedirects.cache
+C:\data\HandlingDates(asssited)\HandlingDates(asssited)\obj\Debug\HandlingDates(asssited).csproj.CoreCompileInputs.cache
+C:\data\HandlingDates(asssited)\HandlingDates(asssited)\obj\Debug\HandlingDates(asssited).exe
+C:\data\HandlingDates(asssited)\HandlingDates(asssited)\obj\Debug\HandlingDates(asssited).pdb
